@@ -53,7 +53,7 @@ npm start
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/gauravkhatriweb/MERN-AUTHENTACATION-SYSTEM-V2.git)
    cd MERN-AUTHENTACATION-SYSTEM
    ```
 
